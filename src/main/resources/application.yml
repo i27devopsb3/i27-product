@@ -48,5 +48,6 @@ server:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://34.27.27.193:31912/eureka/
+      defaultZone: http://eureka.i27carts.in/eureka/
+     # defaultZone: http://34.27.27.193:31912/eureka/
 ---
